@@ -1,2 +1,2 @@
-# NeoScript
-Python interface for converting image sequences into raw OctoWS2811 format
+# NeoScriptParsingEngine
+This is the parsing engine for the neoscript real-time display engine
